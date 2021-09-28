@@ -1,5 +1,2 @@
 start
-method
-method2
-method3
 end
