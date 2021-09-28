@@ -1,4 +1,5 @@
 start
 method
 method2
+method4
 end
