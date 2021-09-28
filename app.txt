@@ -1,6 +1,4 @@
 start
 method
 method2
-method4
-method3
 end
